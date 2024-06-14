@@ -41,7 +41,7 @@ song_recommendations = {
 }
 
 # User input
-city = st.text_input("Enter a city name", "New York")
+city = st.text_input("Enter a city name(capitalize)", "New York")
 
 if city:
     # Fetch current weather data
