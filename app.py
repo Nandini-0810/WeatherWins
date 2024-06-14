@@ -33,7 +33,11 @@ song_recommendations = {
     "rain": ["Raindrops Keep Fallin' on My Head - B.J. Thomas", "Have You Ever Seen the Rain - CCR"],
     "thunderstorm": ["Thunderstruck - AC/DC", "Thunder - Imagine Dragons"],
     "snow": ["Let It Snow! Let It Snow! Let It Snow! - Dean Martin", "Snow (Hey Oh) - Red Hot Chili Peppers"],
-    "mist": ["Misty - Ella Fitzgerald", "Foggy Notion - The Velvet Underground"]
+    "mist": ["Misty - Ella Fitzgerald", "Foggy Notion - The Velvet Underground"],
+    "cloudy": ["Clouds - Imagine Dragons", "Cloudy - Simon & Garfunkel"],
+    "dust": ["Cloudy Day - Tones And I", "Both Sides Now - Joni Mitchell"],
+    "overcast clouds": ["Clouds - Newton Faulkner", "Clouds - Zach Sobiech"],
+    "haze": ["Cloudy Day - Tones And I", "Both Sides Now - Joni Mitchell"]
 }
 
 # User input
