@@ -10,7 +10,7 @@ from game import check_winner,make_move
 st.title("WeatherWins")
 
 # API Key (Replace with your own API key)
-API_KEY = "c8a573b569dac996b41c2d0cca8041d7"
+API_KEY = "add_your_api_key_from_openweathermap"
 
 # Function to fetch weather data
 def get_weather_data(city):
@@ -93,7 +93,7 @@ if "board" not in st.session_state:
 
 # Title for the Tic-Tac-Toe game
 st.header("Play Tic-Tac-Toe!")
-st.write("***hey,let's play game!***")
+st.write("***hey,let's play game #2player-game(DoubleTap)!***")
 # Display the board
 for row in range(3):
     cols = st.columns(3)
