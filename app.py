@@ -11,7 +11,7 @@ from game import check_winner,make_move
 st.title("WeatherWins")
 
 # API Key (Replace with your own API key)
-API_KEY = "c8a573b569dac996b41c2d0cca8041d7"
+API_KEY = "0000"
 
 # Function to fetch weather data
 def get_weather_data(city):
